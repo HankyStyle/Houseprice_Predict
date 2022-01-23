@@ -15,3 +15,7 @@ app.py : Fast Api & Pydantic
 ## Credit
 
 - [HankyStyle](https://github.com/HankyStyle)
+- [ioveeagle](https://github.com/ioveeagle)
+- [Rayching](https://github.com/Rayching)
+- [huang624](https://github.com/huang624)
+- [ms0004284](https://github.com/fcu-d0589769)
