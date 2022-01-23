@@ -3,6 +3,9 @@ ALOT Final Project
 ---
 此專案是藉由 政府提供的 實價登錄 資料 來訓練一個Auto-Sklearn Model 藉此預測出 某縣市某一地區 大樓或套房的價格
 
+![image](https://github.com/HankyStyle/Houseprice_Predict/blob/master/demo.png)
+
+
 ## Quick Start
 
 1. fork the repositories
