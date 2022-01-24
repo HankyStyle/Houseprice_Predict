@@ -18,7 +18,7 @@ ALOT Final Project
 2. Follow Colab in training to training Model
 
 
-3.Start development
+3. Start development
    
 
 
