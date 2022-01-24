@@ -21,9 +21,23 @@ ALOT Final Project
 3. Follow README in template to start development
    
 
-app.py
---
-Fast Api & Pydantic
+
+## Development
+
+- Setup virtual environment
+
+```shell
+python -m venv your-awesome-venv-name
+source your-awesome-venv-name/bin/activate
+pip install -r requirements.txt
+```
+
+- Start Dev Server
+
+```shell
+uvicorn app:app --reload
+```
+
 
 
 
