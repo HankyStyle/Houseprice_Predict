@@ -15,10 +15,10 @@ ALOT Final Project
    ```
 
 
-2. Follow README in training to training Model
+2. Follow Colab in training to training Model
 
 
-3. Follow README in template to start development
+3.Start development
    
 
 
