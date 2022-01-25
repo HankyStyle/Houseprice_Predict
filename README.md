@@ -67,6 +67,14 @@ uvicorn app:app --reload
 ![image](https://user-images.githubusercontent.com/70362842/150983418-62a262be-cfc5-4d64-9450-6c37c65422cc.png)
 
 1. 從政府的實價登錄資料 整理 挑選有興趣的特徵
+  + 特徵 e.g.
+  + 地區 e.g.,南區、西屯區
+  + 坪數
+  .
+  .
+  + 主要用途 e.g., 住宅、辦公室
+
+
 
 2. 
 
