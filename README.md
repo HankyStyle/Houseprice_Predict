@@ -9,6 +9,12 @@ ALOT Final Project
 ![image](https://github.com/HankyStyle/Houseprice_Predict/blob/master/demo.gif)
 
 
+### 架構圖
+![image](https://user-images.githubusercontent.com/70362842/150990668-6cd769a9-70fa-45b3-b78e-9cb6a58e26e8.png)
+
+
+
+
 ## Quick Start
 
 1. fork the repositories
