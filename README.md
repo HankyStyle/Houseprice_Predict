@@ -63,20 +63,20 @@ uvicorn app:app --reload
 ```
 
 ### Training
+
 ### DataSet
 ![image](https://user-images.githubusercontent.com/70362842/150983418-62a262be-cfc5-4d64-9450-6c37c65422cc.png)
 
 1. 從政府的實價登錄資料 整理 挑選有興趣的特徵
-  + 特徵 e.g.
-  + 地區 e.g.,南區、西屯區
+  + 建材 e.g., 鋼筋、鋼骨
+  + 地區 e.g., 南區、西屯區
   + 坪數
-  .
-  .
   + 主要用途 e.g., 住宅、辦公室
 
+2.  把類別型資料 轉換為數值參數
 
+3.  
 
-2. 
 
 ## Credit
 
