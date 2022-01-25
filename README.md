@@ -40,6 +40,26 @@ pip install -r requirements.txt
 uvicorn app:app --reload
 ```
 
+### 檔案架構
+```
+.
+├── requirements.txt 
+├── app.py  // 專案中的主要組件，所有頁面都在app.py下執行
+├── static\js
+│   └── test.js
+├── templates
+│   ├── Home.html  // 網頁首頁
+│   ├── Kaohsiung.html  // 高雄
+│   ├── NewTaipei.html // 新北
+│   ├── Taichung.html  // 台中
+│   ├── Tainan.html  // 台南
+│   ├── Taoyuan.html  // 桃園
+│   └── Taipei.html // 台北
+└── training  
+    ├── Aiot_model.ipynb  // 訓練模型Colab
+    ├── all_data.csv  // 訓練資料
+    └── train.py // 練習範本Colab
+
 
 
 
