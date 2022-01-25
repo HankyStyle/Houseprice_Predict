@@ -77,7 +77,7 @@ uvicorn app:app --reload
 
  ![image](https://user-images.githubusercontent.com/70362842/150988438-453fe780-71a7-4aeb-9e67-2e006c7059ec.png)
 
-3.  將所以參數與成交價做成資料集，並使用Autosklearn尋找最好的模型和參數 或是挑選幾個較好的模型堆疊，獲得一個效果不錯的模型。
+3.  將所有參數與成交價做成資料集，並使用Autosklearn尋找最好的模型和參數 或是挑選幾個較好的模型堆疊，獲得一個效果不錯的模型。
 
 ### Result
 ![image](https://user-images.githubusercontent.com/70362842/150989149-1fce2cda-c7a1-4f10-994c-41eb89e22210.png)
