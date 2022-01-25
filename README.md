@@ -59,7 +59,7 @@ uvicorn app:app --reload
     ├── Aiot_model.ipynb  // 訓練模型Colab
     ├── all_data.csv  // 訓練資料
     └── train.py // 練習範本Colab
-
+```
 
 
 
