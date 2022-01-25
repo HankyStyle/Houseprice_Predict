@@ -62,7 +62,7 @@ uvicorn app:app --reload
     └── train.py // 練習範本Colab
 ```
 
-### Training
+## Training
 
 ### DataSet
 ![image](https://user-images.githubusercontent.com/70362842/150983418-62a262be-cfc5-4d64-9450-6c37c65422cc.png)
