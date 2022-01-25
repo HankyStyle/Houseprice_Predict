@@ -64,7 +64,7 @@ uvicorn app:app --reload
 
 ## Training
 
-### DataSet
+### DataSet 下載連結: https://plvr.land.moi.gov.tw/DownloadOpenData
 ![image](https://user-images.githubusercontent.com/70362842/150983418-62a262be-cfc5-4d64-9450-6c37c65422cc.png)
 
 1. 從政府的實價登錄資料 整理 挑選有興趣的特徵
@@ -74,8 +74,12 @@ uvicorn app:app --reload
   + 主要用途 e.g., 住宅、辦公室
 
 2.  把類別型資料 轉換為數值參數
+    ![image](https://user-images.githubusercontent.com/70362842/150988438-453fe780-71a7-4aeb-9e67-2e006c7059ec.png)
 
-3.  
+3.  將所以參數與成交價做成資料集，並使用Autosklearn尋找最好的模型和參數 或是挑選幾個較好的模型堆疊，獲得一個效果不錯的模型。
+
+### Result
+![image](https://user-images.githubusercontent.com/70362842/150989149-1fce2cda-c7a1-4f10-994c-41eb89e22210.png)
 
 
 ## Credit
