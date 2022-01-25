@@ -4,6 +4,7 @@
 ALOT Final Project
 ---
 此專案是藉由 政府提供的 實價登錄 資料 來訓練一個Auto-Sklearn Model 藉此預測出 某縣市某一地區 大樓或套房的價格
+將Train好的Model 用 FastApi & HTML 建立 Web Application
 
 ![image](https://github.com/HankyStyle/Houseprice_Predict/blob/master/demo.gif)
 
@@ -40,7 +41,7 @@ pip install -r requirements.txt
 uvicorn app:app --reload
 ```
 
-### 檔案架構
+### File Description
 ```
 .
 ├── requirements.txt 
@@ -61,7 +62,13 @@ uvicorn app:app --reload
     └── train.py // 練習範本Colab
 ```
 
+### Training
+### DataSet
+![image](https://user-images.githubusercontent.com/70362842/150983418-62a262be-cfc5-4d64-9450-6c37c65422cc.png)
 
+1. 從政府的實價登錄資料 整理 挑選有興趣的特徵
+
+2. 
 
 ## Credit
 
