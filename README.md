@@ -12,7 +12,7 @@ ALOT Final Project
 ### 架構圖
 ![image](https://user-images.githubusercontent.com/70362842/151114798-f10a1a11-760f-43c5-95b3-46b232489a25.png)
 
-
+更多FastAPi 介紹 可以參考:https://minglunwu.github.io/notes/2021/fast_api_note_1.html
 
 
 ## Quick Start
