@@ -71,6 +71,7 @@ uvicorn app:app --reload
 ## Training
 
 ### DataSet 下載連結: https://plvr.land.moi.gov.tw/DownloadOpenData
+下圖為台北市資料範例
 ![image](https://user-images.githubusercontent.com/70362842/150983418-62a262be-cfc5-4d64-9450-6c37c65422cc.png)
 
 1. 從政府的實價登錄資料 整理 挑選有興趣的特徵
