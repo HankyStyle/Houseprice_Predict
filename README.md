@@ -10,7 +10,7 @@ ALOT Final Project
 
 
 ### 架構圖
-![image](https://user-images.githubusercontent.com/70362842/150990668-6cd769a9-70fa-45b3-b78e-9cb6a58e26e8.png)
+![image](https://user-images.githubusercontent.com/70362842/151114673-66722dd4-7f76-49ac-8b1d-99b31df72a29.png)
 
 
 
