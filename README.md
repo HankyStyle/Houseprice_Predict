@@ -28,8 +28,8 @@ ALOT Final Project
 
 
 3. Start development
-   FastAPi 與 Flask 不同的是，如果直接執行此 main.py 不會啟動服務。
-   需要透過 ASGI Server gvicorn 來啟用
+   +  FastAPi 與 Flask 不同的是，如果直接執行此 main.py 不會啟動服務。需要透過 ASGI Server gvicorn 來啟用
+      
 
 ## Development
 
