@@ -1,5 +1,4 @@
-# Houseprice_Predict
-房價預測系統
+# Houseprice_Predict 房價預測模型
 
 ALOT Final Project
 ---
